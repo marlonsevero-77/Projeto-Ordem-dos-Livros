@@ -31,7 +31,7 @@ Abra o arquivo `index.html` no navegador ou use uma extensão como **Live Server
 
 ## 📚 Campo de Aprendizagem
 
- - **Novos Frameworks** Aprendi a utilizar novos frameworks como, Svelte, TypeScript e Tailwind
+ - **Novos Frameworks:** Aprendi a utilizar novos frameworks como, Svelte, TypeScript e Tailwind
 - **Design Responsivo com CSS Grid e Flexbox:** A interface foi construída visando adaptabilidade a diferentes tamanhos de tela.
 
 ## 📌 Status
