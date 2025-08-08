@@ -23,7 +23,7 @@ Este projeto foi desenvolvido com:
 Você pode clonar o repositório e abrir o `index.html` diretamente no navegador:
 
 ```bash
-git clone https://github.com/MarlonSfutsal77/Projeto-Ordem-dos-Livros.git
+git clone https://github.com/marlonsevero-77/Projeto-Ordem-dos-Livros.git
 cd ordem-dos-livros
 ```
 
