@@ -26,8 +26,12 @@ Você pode clonar o repositório e abrir o `index.html` diretamente no navegador
 git clone https://github.com/marlonsevero-77/Projeto-Ordem-dos-Livros.git
 cd ordem-dos-livros
 ```
+Ou..
 
-Abra o arquivo `index.html` no navegador ou use uma extensão como **Live Server** no VS Code.
+Abra um terminal no VS Code do seu arquivo e rode os seguintes comandos:
+cd ordem-livros
+npm run dev 
+automaticamente abrirá um localhost para acessar a página.
 
 ## 📚 Campo de Aprendizagem
 
