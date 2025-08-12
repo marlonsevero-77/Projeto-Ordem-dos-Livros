@@ -27,7 +27,7 @@ git clone https://github.com/marlonsevero-77/Projeto-Ordem-dos-Livros.git
 cd ordem-dos-livros
 ```
 Ou..
-Abra um terminal no seu VS Code do arquivo e com o nome da sua pasta e rode o comando nodejs:
+Abra um terminal no seu VS Code, do arquivo com o nome da sua pasta e rode o comando nodejs:
 ```bash
 - npm run dev
 ```
