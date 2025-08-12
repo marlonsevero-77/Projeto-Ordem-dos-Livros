@@ -27,9 +27,8 @@ git clone https://github.com/marlonsevero-77/Projeto-Ordem-dos-Livros.git
 cd ordem-dos-livros
 ```
 Ou..
-Abra um terminal no seu VS Code do arquivo e rode os seguintes comandos:
+Abra um terminal no seu VS Code do arquivo e com o nome da sua pasta e rode o comando nodejs:
 ```bash
-- cd ordem-livros
 - npm run dev
 ```
 automaticamente abrirá um localhost para acessar a página.
