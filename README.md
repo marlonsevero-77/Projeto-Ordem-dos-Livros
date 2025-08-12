@@ -27,10 +27,11 @@ git clone https://github.com/marlonsevero-77/Projeto-Ordem-dos-Livros.git
 cd ordem-dos-livros
 ```
 Ou..
-
-Abra um terminal no VS Code do seu arquivo e rode os seguintes comandos:
-cd ordem-livros
-npm run dev 
+Abra um terminal no seu VS Code do arquivo e rode os seguintes comandos:
+```bash
+- cd ordem-livros
+- npm run dev
+```
 automaticamente abrirá um localhost para acessar a página.
 
 ## 📚 Campo de Aprendizagem
