@@ -29,7 +29,7 @@ cd ordem-dos-livros
 Ou..
 Abra um terminal no seu VS Code, do arquivo com o nome da sua pasta e rode o comando nodejs:
 ```bash
-- npm run dev
+ npm run dev
 ```
 automaticamente abrirá um localhost para acessar a página.
 
